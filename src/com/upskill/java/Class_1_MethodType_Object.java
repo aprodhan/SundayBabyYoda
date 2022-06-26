@@ -2,6 +2,8 @@ package com.upskill.java;
 
 public class Class_1_MethodType_Object {
 	
+	//Test
+	
 	static int hourlyIncome = 65; //Manual QA = 40-55$, Automation QA = 50-70$, SDET = 60-80$
 
 	public static void main(String[] args) {
